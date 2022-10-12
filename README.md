@@ -19,4 +19,3 @@
 [![Flutter](https://img.shields.io/badge/-Linkedin-090909?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/vlad-rudenko-06a5b424b/)
 [![Flutter](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=Telegram)](https://t.me/RudenkoVl4d)
 [![Flutter](https://img.shields.io/badge/-GitHub-090909?style=flat-square&logo=GitHub)](https://github.com/VladRudenko)
-[![Flutter](https://img.shields.io/badge/-Gmail-090909?style=flat-square&logo=Gmail)](rudenkovladyslav8@gmail.com)
