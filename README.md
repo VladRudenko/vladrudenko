@@ -1,4 +1,4 @@
-[![Header](https://github.com/VladRudenko/vladrudenko/blob/main/assets/qa-2-min.png)](https://www.linkedin.com/in/vlad-rudenko-06a5b424b/)
+[![Header](https://github.com/VladRudenko/vladrudenko/blob/main/assets/qa.png)](https://www.linkedin.com/in/vlad-rudenko-06a5b424b/)
 
 ### Hello, I am a QA Engineer
 ## CV
