@@ -20,7 +20,7 @@
 ### Testing Documentation
 - [Test-Cases](https://docs.google.com/spreadsheets/d/1eNtn6av_0UClL8AY1_LuqtWTLbu1bsTX/edit?usp=sharing&ouid=109579382755242889609&rtpof=true&sd=true)
 - [Test-Plan](https://docs.google.com/spreadsheets/d/1vsDRYQ7-y_vH2KutYDI_DVZj7ipfouI4/edit?usp=sharing&ouid=109579382755242889609&rtpof=true&sd=true)
-- [Test-Completion-Report](https://docs.google.com/presentation/d/1E43carE37ezHPk9S7NZyC5TNxgzFYP7b/edit?usp=sharing&ouid=109579382755242889609&rtpof=true&sd=true)
+- [Test-Summary-Report](https://docs.google.com/presentation/d/1E43carE37ezHPk9S7NZyC5TNxgzFYP7b/edit?usp=sharing&ouid=109579382755242889609&rtpof=true&sd=true)
 ### Follow me
 [![Flutter](https://img.shields.io/badge/-Linkedin-090909?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/vlad-rudenko-06a5b424b/)
 [![Flutter](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=Telegram)](https://t.me/RudenkoVl4d)
