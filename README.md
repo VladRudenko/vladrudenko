@@ -20,8 +20,8 @@
 ## Completed Test-Tasks 👇
 - [Company - Dynamica Labs](https://www.dynamicalabs.com/)
     - [Test-Task condition](https://crmexperts-my.sharepoint.com/:w:/g/personal/nataliya_bondarets_dynamicalabs_com/Ec_b6U02LzlDsgo_FxdWQ4wBXaY8hsSgQHtIThdvP3-BRg?rtime=j7xcVEki20g)
-    - [Official Test-Plan](https://docs.google.com/spreadsheets/d/1QIwm4drDmPM2r-G6AyI2xm2lxw1aPFLt/edit?usp=sharing&ouid=109579382755242889609&rtpof=true&sd=true)
-    - [Crative Test-Plan](https://docs.google.com/document/d/1nuEDGdZPlaCJnnKusJ8QMVOr6qgvX3iC/edit?usp=sharing&ouid=109579382755242889609&rtpof=true&sd=true)
+    - [Official Style Test-Plan](https://docs.google.com/spreadsheets/d/1QIwm4drDmPM2r-G6AyI2xm2lxw1aPFLt/edit?usp=sharing&ouid=109579382755242889609&rtpof=true&sd=true)
+    - [Crative Style Test-Plan](https://docs.google.com/document/d/1nuEDGdZPlaCJnnKusJ8QMVOr6qgvX3iC/edit?usp=sharing&ouid=109579382755242889609&rtpof=true&sd=true)
     - [Test Cases](https://docs.google.com/document/d/1FBe_nG3XqA9AsGhtJzvF3lYfK74Vq48W/edit?usp=sharing&ouid=109579382755242889609&rtpof=true&sd=true)
 
 - [Company - SoftFormance](https://www.softformance.com/)
@@ -34,7 +34,7 @@
 
 - [Company - Suntech Innovation](https://www.suntechinnovation.com/)
     - [Test-Task condition](https://docs.google.com/document/d/1KFMhPUTMv6kmLHgOYbMNm32sehA-XscWZtf5T-5zaGM/edit?usp=sharing)
-    - [Solved Test-Task](https://docs.google.com/document/d/1fbX0YncMQLHHVZdUGGWIRkSaDG4CcsHE/edit?usp=sharing&ouid=109579382755242889609&rtpof=true&sd=true)
+    - [Defects](https://docs.google.com/document/d/1fbX0YncMQLHHVZdUGGWIRkSaDG4CcsHE/edit?usp=sharing&ouid=109579382755242889609&rtpof=true&sd=true)
 
 - [Company - Infinite Plus](https://infinite-plus.io/)
     - [Identify equivalence, Boundary values/ Decision table/ bug reports and test cases/ bug life cycle/ SQL queries](https://docs.google.com/document/d/1c3Vrsl1rAe9zv4JPzazA-GmiV9AEHYRf/edit?usp=sharing&ouid=109579382755242889609&rtpof=true&sd=true)
